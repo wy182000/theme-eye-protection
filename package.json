@@ -1,0 +1,21 @@
+{
+  "name": "theme-eye-protection",
+  "displayName": "theme_eye_protection",
+  "description": "eye protection",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme-eye-protection",
+        "uiTheme": "vs",
+        "path": "./themes/theme-eye-protection-color-theme.json"
+      }
+    ]
+  }
+}
